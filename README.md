@@ -27,13 +27,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./desktop-solution.png)
-[](./mobile-solution-1.png)
-[](./mobile-solution-2.png)
+![](./mobile-solution-1.png)
+![](./mobile-solution-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/ElizabethAderogba/Results-summary-component)
+- Live Site URL: [Live site URL here](https://elizabethaderogba.github.io/Results-summary-component/)
 
 ## My process
 
